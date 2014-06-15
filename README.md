@@ -26,4 +26,4 @@ To build a cube, you'll need the following supplies:
 *  Run **make** to compile the project
 *  Run **make upload** to upload the code to the arduino
 *  Run **make monitor** to see output from the arduino sensors
-*  Once the arduino is working reading sensors property, assemble the hydroponic garden and mount the sensor to it
+*  Once the arduino is working reading sensors properly, assemble the hydroponic garden and mount the sensor to it
