@@ -5,10 +5,15 @@ Cube enables experts across the world to grow plants for you out of your home or
 ## Supplies
 
 To build a cube, you'll need the following supplies:
+
 [Arduino Uno R3](https://www.sparkfun.com/products/11021)
+
 [Hydroponic rock](http://www.amazon.com/Hydroton-Leca-Orchid-Hydroponic-Media/dp/B004IAM29K)
+
 [Weather shield](https://www.sparkfun.com/products/12081)
+
 [Stacking headers](https://www.sparkfun.com/products/11417)
+
 [Hydroponics kit](http://www.amazon.com/Stealth-Hydroponics-DWC-Basic-Kit/dp/B005K2VKK2/)
 
 ## Setup
